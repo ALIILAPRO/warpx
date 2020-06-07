@@ -5,8 +5,7 @@
   WARPX
   <br>
 </h1>
-<h4 align="center">A project for getting unlimited GB on Warp+ <a href="http://1.1.1.1" target="_blank">Cloudflare</a>.</h4>
-</a>
-  <a href="https://github.com/ALIILAPRO/warpx"><img src="https://img.shields.io/github/languages/code-size/aliilapro/warpx"></a>
-
-  </a>
+<h4 align="center">A project for getting unlimited GB on Warp+ <a href="http://1.1.1.1" target="_blank">Cloudflare</a>.
+<a href="https://github.com/ALIILAPRO/warpx"><img src="https://img.shields.io/github/languages/code-size/aliilapro/warpx"></a>
+</h4>
+  
